@@ -4,6 +4,9 @@
 
 ### Unzip any one of the files. 
 
-Overall Score Calculation
+Copy your outputs into the your_results folder in the base directory.
 
-Follow the instruction in PIRM2018 to calculate the PI values
+Copy the validation/test set (HR images only) into the self_validation_HR folder.
+
+Download the Ma et al. code, and extract it into the utils/sr-metric-master folder.
+Run the evaluate_results.m script.
